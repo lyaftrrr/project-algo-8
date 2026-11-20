@@ -1,0 +1,4 @@
+username,password,role,id_anggota
+petugas,admin123,petugas,
+peminjam,pinjam123,peminjam,A001
+USER,PASS,peminjam,A002
