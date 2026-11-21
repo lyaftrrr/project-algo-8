@@ -9,7 +9,7 @@ from datetime import datetime, timedelta
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 FOLDER = os.path.join(BASE_DIR, "data_booktrack")
 
-DENDA_PER_HARI = 1000
+DENDA_PER_HARI = 5000
 LAMA_PINJAM = 7
 LAMA_PERPANJANGAN = 7
 
