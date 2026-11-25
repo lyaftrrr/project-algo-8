@@ -1,3 +1,25 @@
 tanggal,username,aktivitas
 20-11-2026 18:38:04,USER,Login ke sistem
 20-11-2026 18:39:00,USER,Logout dari sistem
+24-11-2026 12:17:05,USER,Login ke sistem
+25-11-2026 13:10:57,USER,Logout dari sistem
+25-11-2026 13:11:47,User,Registrasi akun baru
+25-11-2026 13:12:14,User,Logout dari sistem
+25-11-2026 13:27:58,user,Registrasi akun baru
+25-11-2026 13:28:23,user,Meminjam buku Laskar Pelangi
+25-11-2026 13:28:38,user,Logout dari sistem
+25-11-2026 13:34:58,user,Login ke sistem
+25-11-2026 13:35:17,user,Perpanjangan disetujui P001
+25-11-2026 13:55:45,user,Logout dari sistem
+25-11-2026 19:30:11,-,Percobaan akses admin GAGAL
+25-11-2026 19:30:36,admin,Masuk ke mode admin
+25-11-2026 19:52:24,admin,Keluar dari mode admin
+25-11-2026 19:54:39,admin,Masuk ke mode admin
+25-11-2026 19:54:47,admin,Keluar dari mode admin
+25-11-2026 19:57:23,admin,Masuk ke mode admin
+25-11-2026 19:59:11,admin,Keluar dari mode admin
+25-11-2026 19:59:41,admin,Masuk ke mode admin
+25-11-2026 20:04:31,admin,Keluar dari mode admin
+25-11-2026 20:08:50,user,Login ke sistem
+25-11-2026 20:13:17,user,Logout
+25-11-2026 20:14:46,user,Login ke sistem

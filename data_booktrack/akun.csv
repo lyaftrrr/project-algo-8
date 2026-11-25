@@ -1,4 +1,10 @@
 username,password,role,id_anggota
-petugas,admin123,petugas,
-peminjam,pinjam123,peminjam,A001
-USER,PASS,peminjam,A002
+petugas,admin123,admin,
+peminjam,pinjam123,pengunjung,A001
+USER,PASS,pengunjung,A002
+admin,admin321,admin,
+petugas2,petugas123,admin,
+peminjam2,pinjam456,pengunjung,A003
+peminjam3,pinjam789,pengunjung,A004
+User,Pass,pengunjung,A005
+user,pass,pengunjung,A006

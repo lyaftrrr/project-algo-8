@@ -336,7 +336,7 @@ def keterangan_waktu(jatuh_tempo_iso):
 
 
 def teks_denda(p):
-    """Ringkas: '-' jika tidak ada denda, atau 'Rp 3.000 (Belum)'."""
+    """Ringkas: '-' jika tidak ada denda, atau 'Rp 5.000 (Belum)'."""
     if int(p["denda"]) == 0:
         return "-"
 

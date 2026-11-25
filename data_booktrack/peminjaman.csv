@@ -1,1 +1,2 @@
 id_pinjam,id_anggota,id_buku,judul,tanggal_pinjam,jatuh_tempo,tanggal_kembali,status,denda,status_denda
+P001,A006,B001,Laskar Pelangi,2026-11-25,2026-12-09,,Dipinjam,0,Tidak Ada
